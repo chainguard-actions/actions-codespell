@@ -1,6 +1,6 @@
 {
   "owner": "codespell-project",
   "name": "actions-codespell",
-  "visibility": "internal",
+  "visibility": "public",
   "block_publish": false
 }
